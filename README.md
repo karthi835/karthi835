@@ -10,23 +10,15 @@
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="380">
-
-<br/><br/>
-
 <a href="https://linkedin.com/in/karthikeyan-n-1b3174283" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/karthi835" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="mailto:kn09960@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-8957E5?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=karthi835&style=for-the-badge&color=39D0D6&label=PROFILE+VIEWS" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/karthi835?style=for-the-badge&color=1F6FEB&labelColor=0D1117" alt="Followers" />
 
 </div>
 
 <br/>
 
 ## 🚀 About Me
-
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 - 🎓 Computer Science Engineering student (2023 – 2027) at Tagore Engineering College
 - ☕ Strong interest in **Java** and **Spring Boot** backend development
@@ -36,8 +28,6 @@
 - 🧩 Love solving problems through **Data Structures & Algorithms**
 - 🌱 Constantly learning and shipping small, impactful projects
 - 💬 Ask me about: Java, Spring Boot, React, SQL, Full-Stack architecture
-
-<br clear="right"/>
 
 ---
 
@@ -107,7 +97,6 @@
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/238200622-c196b6f3-a5b8-4a02-97a3-9ec72f0a3fe1.png"/>
 
 ### 📊 Student Analytics Dashboard *(EduManage)*
 Full-stack admin dashboard for managing students, courses & departments — real-time analytics, interactive charts, Excel import, and role-based access.
@@ -118,7 +107,6 @@ Full-stack admin dashboard for managing students, courses & departments — real
 
 </td>
 <td width="50%" valign="top">
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/238200622-c196b6f3-a5b8-4a02-97a3-9ec72f0a3fe1.png"/>
 
 ### 🏠 House Price Prediction System
 Web app predicting house prices from location, area, bedrooms & amenities, with a Spring Boot + Maven backend handling data processing.
@@ -131,7 +119,6 @@ Web app predicting house prices from location, area, bedrooms & amenities, with 
 </tr>
 <tr>
 <td width="50%" valign="top">
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/238200622-c196b6f3-a5b8-4a02-97a3-9ec72f0a3fe1.png"/>
 
 ### ☕ Coffee Shop Website
 Modern, responsive coffee shop site with menu browsing, online ordering UI, customer reviews, and smooth, mobile-first navigation.
@@ -142,7 +129,6 @@ Modern, responsive coffee shop site with menu browsing, online ordering UI, cust
 
 </td>
 <td width="50%" valign="top">
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/238200622-c196b6f3-a5b8-4a02-97a3-9ec72f0a3fe1.png"/>
 
 ### ➕ More Projects
 More builds — including an AI data analytics platform, portfolio site, and additional full-stack management systems — are on the way. Check my pinned repos for the latest.
@@ -152,8 +138,6 @@ More builds — including an AI data analytics platform, portfolio site, and add
 </td>
 </tr>
 </table>
-
-> 💡 *Placeholder thumbnails above — swap the `img` links with real screenshots of each project for the strongest impression.*
 
 ---
 
@@ -208,9 +192,6 @@ More builds — including an AI data analytics platform, portfolio site, and add
 <a href="mailto:kn09960@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://portfolio-web-eta-ten-90.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-39D0D6?style=for-the-badge&logo=vercel&logoColor=black"/></a>
 <a href="https://leetcode.com/problemset/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-
-<sub>⚠️ HackerRank link is still a placeholder — replace the <code>#</code> href with your real profile URL, or remove the badge.</sub>
 
 </div>
 
