@@ -77,6 +77,17 @@
 
 ---
 
+## 📈 GitHub Analytics
+
+<div align="center">
+
+Check out my live stats, streak, top languages, and trophies directly on GitHub:
+**[github.com/karthi835](https://github.com/karthi835)**
+
+</div>
+
+---
+
 ## 💼 Featured Projects
 
 <table width="100%">
