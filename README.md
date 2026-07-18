@@ -10,6 +10,11 @@
 
 <br/><br/>
 
+<img src="./assets/profile-avatar.gif#gh-dark-mode-only" width="230" alt="Karthikeyan N"/>
+<img src="./assets/profile-avatar-light.gif#gh-light-mode-only" width="230" alt="Karthikeyan N"/>
+
+<br/><br/>
+
 <a href="https://linkedin.com/in/karthikeyan-n-1b3174283" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/karthi835" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="mailto:kn09960@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-8957E5?style=for-the-badge&logo=gmail&logoColor=white" /></a>
