@@ -102,20 +102,6 @@
 
 </div>
 
-<details>
-<summary>🐍 <b>Contribution Snake Animation — setup</b></summary>
-<br/>
-
-Once the free <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action runs in this repo, embed it with:
-
-```md
-![snake gif](https://raw.githubusercontent.com/karthi835/karthi835/output/github-contribution-grid-snake-dark.svg)
-```
-
-</details>
-
----
-
 ## 💼 Featured Projects
 
 <table width="100%">
@@ -220,11 +206,11 @@ More builds — including an AI data analytics platform, portfolio site, and add
 <a href="https://github.com/karthi835" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://linkedin.com/in/karthikeyan-n-1b3174283" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:kn09960@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-39D0D6?style=for-the-badge&logo=vercel&logoColor=black"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://portfolio-web-eta-ten-90.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-39D0D6?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+<a href="https://leetcode.com/problemset/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 
-<sub>⚠️ Portfolio, LeetCode & HackerRank links are placeholders — replace the <code>#</code> hrefs with your real profile URLs.</sub>
+<sub>⚠️ HackerRank link is still a placeholder — replace the <code>#</code> href with your real profile URL, or remove the badge.</sub>
 
 </div>
 
