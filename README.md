@@ -77,12 +77,17 @@
 
 ---
 
-## 📈 GitHub Analytics
+## 🧠 Dev Principles I Follow
 
 <div align="center">
 
-Check out my live stats, streak, top languages, and trophies directly on GitHub:
-**[github.com/karthi835](https://github.com/karthi835)**
+| Principle | What it means to me |
+|---|---|
+| 🧩 **Clean Code First** | Readable, maintainable code beats clever one-liners |
+| 🔁 **Iterate Fast** | Ship a working version, then improve it |
+| 📖 **Never Stop Learning** | Every project should teach me something new |
+| 🤝 **Collaborate Openly** | Good feedback makes better software |
+| 🎯 **Solve Real Problems** | Build things people actually need |
 
 </div>
 
