@@ -86,8 +86,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthi835&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39D0D6&text_color=c9d1d9" height="170"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthi835&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=39D0D6&line=1F6FEB&point=8957E5" width="90%"/>
-
 <img src="https://github-readme-trophies.vercel.app/?username=karthi835&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" width="90%"/>
 
 </div>
