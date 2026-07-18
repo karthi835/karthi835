@@ -1,18 +1,132 @@
-# 💫 About Me:
-I am a motivated Engineering student from Tagore Engineering College with a strong interest in software development and problem-solving.<br><br>I have hands-on experience in building web applications using HTML, CSS, JavaScript, React, Node.js, Express, and Postgresql. I enjoy working on real-world projects and continuously improving my technical skills.<br><br>I am currently seeking internship or entry-level opportunities where I can apply my knowledge, learn from industry professionals, and contribute to meaningful projects.
+<h1 align="center">Hi 👋, I'm Karthikeyan N</h1>
+<h3 align="center">Computer Science Engineering Student | Full-Stack Developer</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps;Exploring+AI+%26+Machine+Learning;Always+learning%2C+always+shipping" alt="Typing SVG" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/kxrthik_._._07?igsh=bG82cXdueXpwZzJ2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ linkedin.com/in/karthikeyan-n-1b3174283) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kn09960@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=karthi835&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=karthi835&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=karthi835&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://linkedin.com/in/karthikeyan-n" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/karthi835" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:kn09960@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=karthi835&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 About Me
+
+- 🎓 Pursuing **B.E. in Computer Science** at Tagore Engineering College (2023 – 2027)
+- 💻 Passionate about **full-stack web development**, **AI**, and **machine learning**
+- 🌱 Currently strengthening my skills in **Java, Spring Boot, React.js, and REST APIs**
+- 🤝 Open to internships and entry-level full-stack developer roles
+- 📍 Based in Cuddalore, India
+- ⚡ Fun fact: I enjoy turning ideas into working prototypes over a weekend
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
+
+**Backend**
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+</p>
+
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+</p>
+
+**Database & Tools**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+</p>
+
+---
+
+### 🔥 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**☕ Coffee Shop Website**
+Modern, responsive coffee shop site with online ordering UI, customer reviews, and smooth navigation.
+`HTML` `CSS` `JavaScript` `UI/UX`
+
+</td>
+<td width="50%">
+
+**🏠 House Price Prediction System**
+Web app predicting house prices from property features, with a Spring Boot backend for data processing.
+`Java` `Spring Boot` `Maven` `REST APIs`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**📊 EduManage — Student Management & Analytics Dashboard**
+Full-stack education management system with admin dashboard, real-time analytics, and secure role-based access.
+`React.js` `Vite` `Tailwind CSS` `FastAPI` `Spring Boot` `PostgreSQL` `Pandas`
+
+</td>
+<td width="50%">
+
+**➕ More on GitHub**
+Check out my pinned repositories for the latest work and experiments.
+[github.com/karthi835](https://github.com/karthi835)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=karthi835&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthi835&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthi835&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📜 Certifications
+
+- ☕ Oracle Java Foundations — Coursera
+- 🌐 Full-Stack Web Development — Udemy
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/karthikeyan-n"><img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kn09960@gmail.com"><img src="https://img.shields.io/badge/-Say%20Hello-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center"><i>Thanks for stopping by — feel free to explore my repos and reach out!</i></p>
